@@ -6,4 +6,4 @@ For the experiment setup a set number of participants were to have Pepper synchr
 The batch file experimen.bat needs to be run with the participant number to take the participant through the practice mode and the experiment blocks and rest.
 
 ## Requirement
-Python 2.7(32-bit) installed with pynaoqi as instructed by (Aldebaran)[http://doc.aldebaran.com/2-5/dev/python/install_guide.html]
+Python 2.7(32-bit) installed with pynaoqi as instructed by [Aldebaran](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
