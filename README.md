@@ -9,3 +9,6 @@ The batch file experimen.bat needs to be run with the participant number to take
 Python 2.7(32-bit) installed with pynaoqi as instructed by [Aldebaran](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
 Nao or Pepper robot. 
 Change the IP address in robotProxy.py to the robot's IP
+
+## Publication
+This experiment was published in: [Henschel, A., & Cross, E. S. (2020). No evidence for enhanced likeability and social motivation towards robots after synchrony experience. Interaction Studies, 21(1), 7-23.](https://70f31cb0-6d26-424a-9f95-112a0157ff96.filesusr.com/ugd/3e5863_1be3133b5d744e3ab329ebc9e8c82b3c.pdf)
