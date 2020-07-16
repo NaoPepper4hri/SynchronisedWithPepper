@@ -7,3 +7,5 @@ The batch file experimen.bat needs to be run with the participant number to take
 
 ## Requirement
 Python 2.7(32-bit) installed with pynaoqi as instructed by [Aldebaran](http://doc.aldebaran.com/2-5/dev/python/install_guide.html)
+Nao or Pepper robot. 
+Change the IP address in robotProxy.py to the robot's IP
